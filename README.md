@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Google Shopping</h2>
 
-![Google Shopping dataset header](https://github.com/luminati-io/Google Shopping-dataset-sample/blob/main/Google Shopping-datasets.png)
+![Google Shopping dataset header](https://github.com/luminati-io/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
 
 A Google Shopping dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
